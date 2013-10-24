@@ -1,0 +1,106 @@
+create table sprofile(
+FNAME varchar(20),
+LNAME varchar(20), 
+RNO number(10) ,
+COURSE varchar(20),
+EMAIL varchar(20),
+MOB number(10),
+PASS varchar(20)
+);
+
+
+create table tprofile(
+TID NUMBER(10),
+FNAME varchar(20),
+LNAME varchar(20), 
+QUALI VARCHAR(20) ,
+EMAIL varchar(20),
+MOB number(10),
+PASS varchar(20)
+);
+
+
+
+
+CREATE TABLE mca1
+    (
+	Day VARCHAR(10),
+        StartTime VARCHAR(50),
+        EndTime VARCHAR(50),
+	Location varchar(20),
+	TeacherName VARCHAR(20)
+    );
+
+insert into mca1 values('monday','9:20(C language(CA 711))','10:10','cse-201','dr arock sir');
+
+create table mca1(
+
+day varchar(10),
+period_1 varchar(20),
+period_2 varchar(20),
+tea_break varchar(12)
+period_3 varchar(20),
+period_4 varchar(20),
+lunch_break varchar(20),
+period_5 varchar(20),
+period_6 varchar(20),
+period_7 varchar(20),
+period_8 varchar(20),
+);
+
+
+insert into  mca1 values('monday','CA 711','CA713','INTERVAL','CA715','CA717','LUNCH BREAK','CA719','-','-','-');
+insert into  mca1 values('Tuesday','CA 713','CA715','INTERVAL','CA717','CA711','LUNCH BREAK','CA701','-','-','-');
+insert into  mca1 values('Wednesday','CA 715','CA711','INTERVAL','CA719','CA713','LUNCH BREAK','CA717','CA703','CA703','-');
+insert into  mca1 values('Thursday','CA 711','CA719','INTERVAL','CA703','CA703','LUNCH BREAK','CA701','-','-','-');
+insert into  mca1 values('Friday','CA 719','CA715','INTERVAL','CA713','CA701','LUNCH BREAK','CA717','-','-','-');
+
+
+create table mca3(
+day varchar(10),
+period_1 varchar(20),
+period_2 varchar(20),
+tea_break varchar(12),
+period_3 varchar(20),
+period_4 varchar(20),
+lunch_break varchar(20),
+period_5 varchar(20),
+period_6 varchar(20),
+period_7 varchar(20),
+period_8 varchar(20)
+);
+
+
+
+
+insert into  mca3 values('monday','-','CA721','INTERVAL','CA725','CA727','LUNCH BREAK','CA707','CA707','CA707','-');
+insert into  mca3 values('Tuesday','-','CA723','INTERVAL','CA727','CA725','LUNCH BREAK','CA705','CA705','CA705','-');
+insert into  mca3 values('Wednesday','-','CA725','INTERVAL','CA723','CA721','LUNCH BREAK','-','CA729','-','-');
+insert into  mca3 values('Thursday','-','CA729','INTERVAL','CA723','CA723','LUNCH BREAK','CA721','-','-','-');
+insert into  mca3 values('Friday','-','CA727','INTERVAL','CA721','CA721','LUNCH BREAK','CA723','-','-','-');
+
+
+
+
+create table mca5(
+day varchar(10),
+period_1 varchar(20),
+period_2 varchar(20),
+tea_break varchar(12),
+period_3 varchar(20),
+period_4 varchar(20),
+lunch_break varchar(20),
+period_5 varchar(20),
+period_6 varchar(20),
+period_7 varchar(20),
+period_8 varchar(20)
+);
+
+insert into  mca5 values('-','8:30AM-9:20AM','9:20AM-10:10AM',' 9:20AM-10:30AM','10:30AM-11:20AM','11:20AM-12:10PM','12:10PM-1:30PM','1:30PM-2:20PM','2:20PM-3:10PM','3:10PM-4:00PM','4:00PM-4:50PM');
+insert into  mca5 values('monday','-','CA731','INTERVAL','CA709','CA709','LUNCH BREAK','CA744','-','-','-');
+insert into  mca5 values('Tuesday','-','CA733','INTERVAL','CA753','CA753','LUNCH BREAK','CA751','-','-','-');
+insert into  mca5 values('Wednesday','-','CA751','INTERVAL','CA733','CA747','LUNCH BREAK','-','-','-','-');
+insert into  mca5 values('Thursday','-','CA747','INTERVAL','CA751','CA744','LUNCH BREAK','-','CA731','-','-');
+insert into  mca5 values('Friday','-','CA744','INTERVAL','CA751','CA747','LUNCH BREAK','CA733','-','-','-');
+
+

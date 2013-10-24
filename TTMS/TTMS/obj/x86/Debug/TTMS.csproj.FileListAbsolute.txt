@@ -1,0 +1,110 @@
+c:\users\aruns\documents\visual studio 2010\Projects\TTMS\TTMS\bin\Debug\TTMS.exe
+c:\users\aruns\documents\visual studio 2010\Projects\TTMS\TTMS\bin\Debug\TTMS.pdb
+c:\users\aruns\documents\visual studio 2010\Projects\TTMS\TTMS\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aruns\documents\visual studio 2010\Projects\TTMS\TTMS\obj\x86\Debug\TTMS.Properties.Resources.resources
+c:\users\aruns\documents\visual studio 2010\Projects\TTMS\TTMS\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aruns\documents\visual studio 2010\Projects\TTMS\TTMS\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aruns\documents\visual studio 2010\Projects\TTMS\TTMS\obj\x86\Debug\TTMS.exe
+c:\users\aruns\documents\visual studio 2010\Projects\TTMS\TTMS\obj\x86\Debug\TTMS.pdb
+c:\users\aruns\documents\visual studio 2010\Projects\TTMS\TTMS\obj\x86\Debug\TTMS.first.resources
+c:\users\aruns\documents\visual studio 2010\Projects\TTMS\TTMS\obj\x86\Debug\TTMS.main.resources
+c:\users\aruns\documents\visual studio 2010\Projects\TTMS\TTMS\obj\x86\Debug\TTMS.Form2.resources
+c:\users\aruns\documents\visual studio 2010\Projects\TTMS\TTMS\obj\x86\Debug\TTMS.Teacherreg.resources
+c:\users\aruns\documents\visual studio 2010\Projects\TTMS\TTMS\obj\x86\Debug\TTMS.HOME.resources
+G:\TTMS\TTMS\obj\x86\Debug\TTMS.exe
+G:\TTMS\TTMS\obj\x86\Debug\TTMS.pdb
+G:\TTMS\TTMS\bin\Debug\TTMS.exe
+G:\TTMS\TTMS\bin\Debug\TTMS.pdb
+G:\TTMS\TTMS\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\TTMS\TTMS\obj\x86\Debug\TTMS.first.resources
+G:\TTMS\TTMS\obj\x86\Debug\TTMS.HOME.resources
+G:\TTMS\TTMS\obj\x86\Debug\TTMS.Form2.resources
+G:\TTMS\TTMS\obj\x86\Debug\TTMS.main.resources
+G:\TTMS\TTMS\obj\x86\Debug\TTMS.Properties.Resources.resources
+G:\TTMS\TTMS\obj\x86\Debug\TTMS.Teacherreg.resources
+G:\TTMS\TTMS\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\TTMS\TTMS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\TTMS.exe
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\TTMS.pdb
+C:\Users\naveen\Desktop\TTMS\TTMS\bin\Debug\TTMS.exe
+C:\Users\naveen\Desktop\TTMS\TTMS\bin\Debug\TTMS.pdb
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\TTMS.course.resources
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\TTMS.HOME.resources
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\TTMS.Form2.resources
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\TTMS.main.resources
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\TTMS.Properties.Resources.resources
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\TTMS.Time1.resources
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\TTMS.Treg.resources
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\TTMS.sreg.resources
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\TTMS.TT_MCA1.resources
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\TTMS.TT_MCA3.resources
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\TTMS.TT_MCA5.resources
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\TTMS.teacher_menu.resources
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\TTMS.VIEW_STUDENT_RECORD.resources
+C:\Users\naveen\Desktop\TTMS\TTMS\obj\x86\Debug\TTMS.VIEW_TEACHER_DATABASE.resources
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\TTMS.exe
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\TTMS.pdb
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\TTMS.course.resources
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\TTMS.sreg.resources
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\TTMS.HOME.resources
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\TTMS.Form2.resources
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\TTMS.main.resources
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\TTMS.TREG.resources
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\TTMS.teacher_menu.resources
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\TTMS.Time1.resources
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\TTMS.TT_MCA1.resources
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\TTMS.TT_MCA3.resources
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\TTMS.TT_MCA5.resources
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\TTMS.VIEW_STUDENT_RECORD.resources
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\TTMS.VIEW_TEACHER_DATABASE.resources
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\projects\New folder\TTMS\TTMS\bin\Debug\TTMS.exe
+Z:\projects\New folder\TTMS\TTMS\bin\Debug\TTMS.pdb
+Z:\projects\New folder\TTMS\TTMS\obj\x86\Debug\TTMS.Properties.Resources.resources
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.exe
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.pdb
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.course.resources
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.sreg.resources
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.HOME.resources
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.Form2.resources
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.main.resources
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.TREG.resources
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.teacher_menu.resources
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.Time1.resources
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.TT_MCA1.resources
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.TT_MCA3.resources
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.TT_MCA5.resources
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.VIEW_STUDENT_RECORD.resources
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.VIEW_TEACHER_DATABASE.resources
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\z drive\projects\ttms\TTMS\TTMS\bin\Debug\TTMS.exe
+F:\z drive\projects\ttms\TTMS\TTMS\bin\Debug\TTMS.pdb
+F:\z drive\projects\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.Properties.Resources.resources
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.exe
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.pdb
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.course.resources
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.sreg.resources
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.HOME.resources
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.Form2.resources
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.main.resources
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.TREG.resources
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.teacher_menu.resources
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.Time1.resources
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.TT_MCA1.resources
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.TT_MCA3.resources
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.TT_MCA5.resources
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.VIEW_STUDENT_RECORD.resources
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.VIEW_TEACHER_DATABASE.resources
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\bin\Debug\TTMS.exe
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\bin\Debug\TTMS.pdb
+C:\Users\naveen\Desktop\ttms\TTMS\TTMS\obj\x86\Debug\TTMS.Properties.Resources.resources

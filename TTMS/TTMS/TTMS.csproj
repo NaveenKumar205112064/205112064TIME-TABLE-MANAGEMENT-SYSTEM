@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{75F705CF-7B5A-411E-B15B-764538138A31}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TTMS</RootNamespace>
+    <AssemblyName>TTMS</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="course.Designer.cs">
+      <DependentUpon>course.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sreg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sreg.Designer.cs">
+      <DependentUpon>sreg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Teacherreg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacherreg.Designer.cs">
+      <DependentUpon>Teacherreg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teacher_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teacher_menu.Designer.cs">
+      <DependentUpon>teacher_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Time1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Time1.Designer.cs">
+      <DependentUpon>Time1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TT_MCA1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TT_MCA1.Designer.cs">
+      <DependentUpon>TT_MCA1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TT_MCA3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TT_MCA3.Designer.cs">
+      <DependentUpon>TT_MCA3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TT_MCA5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TT_MCA5.Designer.cs">
+      <DependentUpon>TT_MCA5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW_STUDENT_RECORD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW_STUDENT_RECORD.Designer.cs">
+      <DependentUpon>VIEW_STUDENT_RECORD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW_TEACHER_DATABASE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW_TEACHER_DATABASE.Designer.cs">
+      <DependentUpon>VIEW_TEACHER_DATABASE.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="course.resx">
+      <DependentUpon>course.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sreg.resx">
+      <DependentUpon>sreg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Teacherreg.resx">
+      <DependentUpon>Teacherreg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teacher_menu.resx">
+      <DependentUpon>teacher_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Time1.resx">
+      <DependentUpon>Time1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TT_MCA1.resx">
+      <DependentUpon>TT_MCA1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TT_MCA3.resx">
+      <DependentUpon>TT_MCA3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TT_MCA5.resx">
+      <DependentUpon>TT_MCA5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW_STUDENT_RECORD.resx">
+      <DependentUpon>VIEW_STUDENT_RECORD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW_TEACHER_DATABASE.resx">
+      <DependentUpon>VIEW_TEACHER_DATABASE.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navi.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7workshop-part1deliveringhcomputing-110623132519-phpapp01-thumbnail-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desert.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desert1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
